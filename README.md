@@ -6,4 +6,8 @@ The concentration of saltwater in the tubes, controlled by a set of foot pedals,
 
 ![Photo of Sali](IMG_3216.JPG)
 
+And here is a photo of the entire circuit.
+
+![Photo of Circuit](Screenshot2025-09-28153016.png)
+
 I've also linked a performance of the instrument [here](https://drive.google.com/file/d/1P998x_J23Jy8MdQl8Te2J6sw7ut6Y6Pz/view?usp=sharing)!
